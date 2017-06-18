@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="urun_text">Tanımlanmamış</string>
+    <string name="urun_baslik">Ürün ID</string>
+    <string name="urun_adi">Ürün Adı</string>
+    <string name="urun_miktari">Ürün Miktari</string>
+    <string name="button_ekle">Ekle</string>
+    <string name="button_bul">Bul</string>
+    <string name="button_sil">Sil</string>
+</resources>
